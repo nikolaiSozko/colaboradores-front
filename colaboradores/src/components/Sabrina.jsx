@@ -2,7 +2,7 @@ import React from "react";
 
 function Sabrina() {
   return (
-    <>
+    <div className="lorem">
       <h1>Componente Lorem</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis rerum
@@ -10,7 +10,7 @@ function Sabrina() {
         suscipit accusantium possimus velit at, hic nulla pariatur assumenda
         consequatur.
       </p>
-    </>
+    </div>
   );
 }
 
